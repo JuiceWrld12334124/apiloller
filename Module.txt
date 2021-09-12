@@ -1,5 +1,2 @@
-version-d0dc69eb1ab24911
 https://cdn.discordapp.com/attachments/785479045819269151/886557892503805963/WeAreDevs_API.dll
-false
-vr
-dll
+
